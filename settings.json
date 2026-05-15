@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
         "BSDK gand mat marao apni",
         "Tumara papa spawn m gand marwa rha h",
